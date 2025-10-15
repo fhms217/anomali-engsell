@@ -1,12 +1,3 @@
-# MYnyak Engsel
-
-![banner](bnr.png)
-
-CLI client untuk salah satu penyedia layanan internet seluler Indonesia.
-
-# Cara Mendapatkan API Key
-Buka aplikasi Telegram, lalu chat bot [@fykxt_bot](https://t.me/fykxt_bot) dengan pesan `/viewkey`. Salin API key yang diberikan.
-
 # Cara Menjalankan dengan TERMUX
 1. Update & Upgrade Termux
 ```
